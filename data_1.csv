@@ -1,0 +1,52 @@
+Order ID,Customer name,Customer ID,Customer City,Customer State,Product category,Product ID ,"Product 
+style ",Colour,Size,Order Date,Delivery Date,Return ID,Retrun Initiated Date,Return Reason,Return Status,Resolution Date
+1001,Aarav,Customer_2,Jaisalmer,Rajasthan,top,P0010,Kurti,Orange,S,01-11-2024,10-11-2024,RET_1021,15-11-2024,Wrong Product,Completed,16-11-2024
+1002,Ananya,Customer_5,Lucknow,Uttar Pradesh,bottom,P0032,Gown,Purple,M,04-11-2024,08-11-2024,RET_1047,11-11-2024,Wrong Product,Processing,17-11-2024
+1003,Rohan,Customer_8,Delhi,Delhi,bottom,P0042,Jeans,Black,M,03-11-2024,06-11-2024,RET_1073,13-11-2024,Wrong size,Completed,18-11-2024
+1004,Kavya,Customer_ 4,Delhi,Delhi,bottom,P0084,Jeans,Blue,XL,05-11-2024,09-11-2024,RET_1095,14-11-2024,Wrong Product,Completed,19-11-2024
+1005,Viraj,Customer_3,Shimla,Himachal Pradesh,top,P0091,Shirt,White,S,02-11-2024,07-11-2024,RET_1118,12-11-2024,Wrong colour,Completed,17-11-2024
+1006,Aditi,Customer_9,Manali,Himachal Pradesh,bottom,P0054,Gown,Pink,XL,04-11-2024,09-11-2024,RET_1152,14-11-2024,Wrong size,Completed,19-11-2024
+1007,Siddharth,Customer_11,Ooty,Tamil Nadu,top,P0021,Shirt,Purple,S,05-11-2024,09-11-2024,RET_1176,12-11-2024,Wrong Product,Rejected,17-11-2024
+1008,Meera,Customer_15,Dehradun,Uttarakhand,top,P0111,Crop Tops,Blue,S,01-11-2024,08-11-2024,RET_1203,11-11-2024,Wrong Product,Completed,16-11-2024
+1009,Arjun,Customer_18,Ahemdabad,Gujarat,top,P0091,Shirt,White,S,02-11-2024,06-11-2024,RET_1239,13-11-2024,Wrong Product,Processing,18-11-2024
+1010,Priya,Customer_19,Allahabad,Uttar Pradesh,top,P0152,Shirt,Orange,M,04-11-2024,07-11-2024,RET_1256,11-11-2024,Wrong style,Completed,19-11-2024
+1011,Nikhil,Customer_21,Jaipur,Rajasthan,top,P0251,Kurti,Black,S,03-11-2024,09-11-2024,RET_1285,15-11-2024,Wrong colour,Completed,16-11-2024
+1012,Rhea,Customer_23,Udaipur,Rajasthan,bottom,P0081,Jeans,Blue,S,01-11-2024,10-11-2024,RET_1308,11-11-2024,Wrong Product,Rejected,17-11-2024
+1013,Tanvi,Customer_26,Rampur,Uttar Pradesh,top,P0172,Kurti,Pink,M,04-11-2024,08-11-2024,RET_1324,13-11-2024,Wrong Product,Completed,18-11-2024
+1014,Dev,Customer_29,Kanpur,Uttar Pradesh,top,P0192,Kurti,Purple,M,03-11-2024,06-11-2024,RET_1351,14-11-2024,Wrong colour,Rejected,19-11-2024
+1015,Ishita,Customer_31,Jaisalmer,Rajasthan,top,P0221,Shirt,Pink,S,05-11-2024,09-11-2024,RET_1379,12-11-2024,Wrong size,Processing,17-11-2024
+1016,Kunal,Customer_30,Delhi,Delhi,top,P0014,Kurti,Orange,XL,02-11-2024,07-11-2024,RET_1402,14-11-2024,Wrong Product,Processing,19-11-2024
+1017,Sneha,Customer_36,Ranchi,Jharkhand,top,P0091,Shirt,White,S,05-11-2024,08-11-2024,RET_1426,12-11-2024,Wrong Product,Rejected,18-11-2024
+1018,Rakesh,Customer_34,Kanpur,Uttar Pradesh,top,P0114,Crop Tops,Blue,XL,04-11-2024,07-11-2024,RET_1450,11-11-2024,Wrong Product,Rejected,16-11-2024
+1019,Pooja,Customer_39,Delhi,Delhi,bottom,P0042,Jeans,Black,M,02-11-2024,09-11-2024,RET_1483,13-11-2024,Wrong size,Processing,16-11-2024
+1020,Sanjay,Customer_40,Hyderabad,Telangana,top,P0191,Kurti,Purple,S,03-11-2024,09-11-2024,RET_1507,11-11-2024,Wrong size,Rejected,17-11-2024
+1021,Anjali,Customer_46,Bangalore,Karnataka,top,P0221,Shirt,Pink,S,01-11-2024,06-11-2024,RET_1531,15-11-2024,Wrong colour,Completed,18-11-2024
+1022,Varun,Customer_41,Ludhiana,Punjab,bottom,P0351,Gown,Orange,S,04-11-2024,09-11-2024,RET_1565,11-11-2024,Wrong Product,Processing,19-11-2024
+1023,Sakshi,Customer_48,Amritsar,Punjab,top,P0331,Crop Tops,Black,S,03-11-2024,07-11-2024,RET_1589,13-11-2024,Wrong style,Completed,17-11-2024
+1024,Pranav,Customer_45,Chennai,Tamil Nadu,top,P0371,Crop Tops,Orange,S,05-11-2024,10-11-2024,RET_1610,11-11-2024,Wrong Product,Completed,19-11-2024
+1025,Neha,Customer_47,Leh,Ladakh,bottom,P0392,Jeans,Purple,M,02-11-2024,08-11-2024,RET_1633,12-11-2024,Wrong size,Rejected,18-11-2024
+1026,Manish,Customer_51,Delhi,Delhi,bottom,P0043,Jeans,Black,L,04-11-2024,06-11-2024,RET_1657,13-11-2024,Wrong colour,Completed,16-11-2024
+1027,Shruti,Customer_49,Delhi,Delhi,top,P0383,Shirt,Blue,L,05-11-2024,09-11-2024,RET_1681,12-11-2024,Wrong Product,Rejected,16-11-2024
+1028,Gaurav,Customer_56,Mumbai,Maharashtra,top,P0452,Kurti,White,M,03-11-2024,07-11-2024,RET_1705,11-11-2024,Wrong Product,Processing,18-11-2024
+1029,Deepika,Customer_54,Kannur,Kerala,bottom,P0054,Gown,Pink,XL,01-11-2024,09-11-2024,RET_1730,11-11-2024,Wrong Product,Completed,19-11-2024
+1030,Abhishek,Customer_50,Rampur,Uttar Pradesh,top,P0024,Shirt,Purple,XL,02-11-2024,09-11-2024,RET_1758,11-11-2024,Wrong colour,Completed,16-11-2024
+1031,Simran,Customer_59,Udaipur,Rajasthan,bottom,P0082,Jeans,Blue,M,04-11-2024,08-11-2024,RET_1782,14-11-2024,Wrong size,Rejected,17-11-2024
+1032,Akash,Customer_53,Hyderabad,Telangana,bottom,P0503,Jeans,White,L,01-11-2024,06-11-2024,RET_1806,13-11-2024,Wrong style,Completed,18-11-2024
+1033,Alka,Customer_57,Hyderabad,Telangana,top,P0151,Shirt,Orange,S,04-11-2024,07-11-2024,RET_1835,11-11-2024,Wrong Product,Processing,19-11-2024
+1034,Vikas,Customer_62,Bangalore,Karnataka,bottom,P0563,Gown,Black,L,03-11-2024,10-11-2024,RET_1862,15-11-2024,Wrong category,Rejected,16-11-2024
+1035,Pallavi,Customer_67,Amritsar,Punjab,bottom,P0082,Jeans,Blue,M,05-11-2024,08-11-2024,RET_1887,11-11-2024,Wrong Product,Completed,18-11-2024
+1036,Ashok,Customer_65,Jaisalmer,Rajasthan,top,P0171,Kurti,Pink,S,02-11-2024,06-11-2024,RET_1911,13-11-2024,Wrong category,Completed,19-11-2024
+1037,Radha,Customer_60,Kanpur,Uttar Pradesh,top,P0193,Kurti,Purple,L,01-11-2024,09-11-2024,RET_1934,14-11-2024,Wrong Product,Processing,17-11-2024
+1038,Rajesh,Customer_68,Chennai,Tamil Nadu,top,P0221,Shirt,Pink,S,03-11-2024,07-11-2024,RET_1959,12-11-2024,Wrong size,Completed,16-11-2024
+1039,Jaya,Customer_66,Chennai,Tamil Nadu,bottom,P0352,Gown,Orange,M,05-11-2024,09-11-2024,RET_1985,12-11-2024,Wrong colour,Completed,17-11-2024
+1040,Ravi,Customer_63,Chennai,Tamil Nadu,bottom,P0501,Jeans,White,S,02-11-2024,06-11-2024,RET_2009,13-11-2024,Wrong Product,Rejected,18-11-2024
+1041,Swati,Customer_61,Mumbai,Maharashtra,top,P1001,Kurti,Blue,S,04-11-2024,07-11-2024,RET_2031,11-11-2024,Wrong category,Completed,19-11-2024
+1042,Vishal,Customer_76,Lucknow,Uttar Pradesh,bottom,P0043,Jeans,Black,L,03-11-2024,09-11-2024,RET_2056,11-11-2024,Wrong size,Rejected,16-11-2024
+1043,Nandini,Customer_71,Leh,Ladakh,bottom,P0394,Jeans,Purple,XL,01-11-2024,08-11-2024,RET_2080,14-11-2024,Wrong Product,Processing,18-11-2024
+1044,Suresh,Customer_75,Ahemdabad,Gujarat,top,P0173,Kurti,Pink,L,01-11-2024,09-11-2024,RET_2104,13-11-2024,Wrong colour,Processing,19-11-2024
+1045,Amrita,Customer_73,Lucknow,Uttar Pradesh,bottom,P0354,Gown,Orange,XL,04-11-2024,07-11-2024,RET_2132,15-11-2024,Wrong category,Completed,17-11-2024
+1046,Mohit,Customer_77,Ooty,Tamil Nadu,top,P0941,Shirt,Black,S,03-11-2024,10-11-2024,RET_2158,11-11-2024,Wrong style,Completed,16-11-2024
+1047,Reena,Customer_74,Munnar,Kerala,top,P0252,Kurti,Black,M,05-11-2024,08-11-2024,RET_2183,13-11-2024,Wrong size,Rejected,17-11-2024
+1048,Vivek,Customer_81,Bangalore,Karnataka,bottom,P0391,Jeans,Purple,S,02-11-2024,06-11-2024,RET_2207,14-11-2024,Wrong size,Completed,18-11-2024
+1049,Seema,Customer_80,Delhi,Delhi,top,P0012,Kurti,Orange,M,05-11-2024,09-11-2024,RET_2235,12-11-2024,Wrong category,Completed,19-11-2024
+1050,Anil,Customer_92,Ranchi,Jharkhand,bottom,P0904,Jeans,Pink,XL,02-11-2024,07-11-2024,RET_2259,11-11-2024,Wrong Product,Processing,18-11-2024
